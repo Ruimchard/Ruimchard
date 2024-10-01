@@ -1,12 +1,12 @@
 ## Iae, Me chamo Richard Wallan 👋
 
-## Git Em Construção 🛠️
+## Git em construção 🛠️
 
 Assistente de TI II na Energética Suape,
 
  Apaixonado por jogos, tecnologia, animes. 
 
- Atualmente estudando para desenvolvedor de jogos em Unity, e futuramente conseguir criar meus proprios jogos e viver desse sonho.
+ Atualmente estudando para desenvolvedor de jogos em Unity e cursando ADS, futuramente criar meus proprios jogos e viver desse sonho.
 
 <div align="center">
 	<a href="https://github.com/ruimchard">
